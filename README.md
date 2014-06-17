@@ -1,9 +1,7 @@
 LoaD - Life of a Div
 ====================
 
-LifeOfAdiv
-
-"LifeOfAdiv" or short "LoaD" is a CSS animation experiment about
+"Life of a Div" or short "LoaD" is a CSS animation experiment about
 different shapes, animations and states that a single div element can have.
 
 Project status	: In progress
